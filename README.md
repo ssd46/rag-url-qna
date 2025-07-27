@@ -1,6 +1,6 @@
-# 🏙️ **RealEstate Research Tool**
+# 🏙️ **RAG URL Assistant**
 
-We are going to build a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the real-estate domain. (But it's features can be extended to any domain.)
+This is a Retrieval-Augmented Generation (RAG) application that extracts text content from a given URL and allows users to ask questions based on that content. It uses a language model (LLM) to generate accurate, context-aware answers grounded in the retrieved information.
 ![product screenshot](resources/image.png)
 ### Features
 
@@ -45,7 +45,7 @@ The web app will open in your browser after the set-up is complete.
 
 - One can now ask a question and get the answer based on those news articles
 
-- In the tutorial, we will use the following news articles
+- In the tutorial, I used the following news articles
   - https://www.cnbc.com/2024/12/21/how-the-federal-reserves-rate-policy-affects-mortgages.html
   - https://www.cnbc.com/2024/12/20/why-mortgage-rates-jumped-despite-fed-interest-rate-cut.html
   - https://www.cnbc.com/2024/12/17/wall-street-sees-upside-in-2025-for-these-dividend-paying-real-estate-stocks.html
@@ -53,7 +53,3 @@ The web app will open in your browser after the set-up is complete.
 
 </br>
 
----
-Copyright (C) Codebasics Inc. All rights reserved.
-
-Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
